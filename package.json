@@ -1,0 +1,19 @@
+{
+  "name": "security x",
+  "version": "2.0.0",
+  "description": "An Security X V2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [Security Bot, Antinuke, Betrayalguard, welcome message, configs, antiraid],
+  "author": "r3novadcl",
+  "license": "None",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "mongoose": "^8.23.1",
+    "@napi-rs/canvas": "^1.0.0"
+  }
+}
